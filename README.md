@@ -7,12 +7,12 @@ Submission for Norcal Hackathon. A Breadth first search pathfinding visualizatio
 - css/
   - style.css : styling
 - js/
- - lib/
-  - buckets.js : Data structure library for javascript
- - calculate.js : Algorithms and helper function
- - color.js : colors pairing for rendering
- - render.js : Rendering both gui and console
- - main.js : Main file, calls other files, d3.js selections
+  - lib/
+    - buckets.js : Data structure library for javascript
+  - calculate.js : Algorithms and helper function
+  - color.js : colors pairing for rendering
+  - render.js : Rendering both gui and console
+  - main.js : Main file, calls other files, d3.js selections
  
 
 
