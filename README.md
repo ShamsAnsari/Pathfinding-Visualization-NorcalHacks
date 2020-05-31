@@ -12,7 +12,7 @@ Submission for Norcal Hackathon. A Breadth first search pathfinding visualizatio
   - calculate.js : Algorithms and helper function
   - color.js : colors pairing for rendering
   - render.js : Rendering both gui and console
-  - main.js : Main file, calls other files, d3.js selections
+  - main.js : Main js file, calls other files, d3.js selections
  
 
 # Live Demo
