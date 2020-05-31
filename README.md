@@ -3,6 +3,7 @@ Submission for Norcal Hackathon. A Breadth first search pathfinding visualizatio
 
 
 # Directory
+- .mp4 : Video submission
 - index.html
 - css/
   - style.css : styling
