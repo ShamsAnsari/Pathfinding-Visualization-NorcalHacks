@@ -17,8 +17,5 @@ Submission for Norcal Hackathon. A Breadth first search pathfinding visualizatio
 
 # Live Demo
 https://shamsansari.github.io/Pathfinding-Visualization-NorcalHacks/ 
-
-Clone Repo
---> Open index.html in a browser
-
+--> Refresh for new maze
 shamsahmedansari@gmail.com
