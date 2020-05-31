@@ -5,7 +5,7 @@ Submission for Norcal Hackathon. A Breadth first search pathfinding visualizatio
 # Files
 - index.html
 - css/
- - style.css : styling
+ _ style.css : styling
 - js/
  - lib/
   - buckets.js : Data structure library for javascript
