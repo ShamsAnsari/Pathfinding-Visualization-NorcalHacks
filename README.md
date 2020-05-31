@@ -11,3 +11,5 @@ https://shamsansari.github.io/Pathfinding-Visualization-NorcalHacks/ --> live de
 
 Clone Repo
 --> Open index.html in a browser
+
+shamsahmedansari@gmail.com
