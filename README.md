@@ -2,7 +2,7 @@
 Submission for Norcal Hackathon. A Breadth first search pathfinding visualization for a maze generated with Recursive division. 
 
 
-# Files
+# Directory
 - index.html
 - css/
   - style.css : styling
@@ -15,8 +15,8 @@ Submission for Norcal Hackathon. A Breadth first search pathfinding visualizatio
   - main.js : Main file, calls other files, d3.js selections
  
 
-
-https://shamsansari.github.io/Pathfinding-Visualization-NorcalHacks/ --> live demo
+# Live Demo
+https://shamsansari.github.io/Pathfinding-Visualization-NorcalHacks/ 
 
 Clone Repo
 --> Open index.html in a browser
