@@ -1,5 +1,7 @@
-**Edit: This project won Best Solo Hack**
+**Edit: This project won Best Solo Hack at NorCalHacks 2020 **
+
 https://event.hackhub.com/event/NorcalHacks/teams/submissions/5824cdf4-4815-4b2e-afa4-707d1f82135d
+
 # Pathfinding-Visualization-NorcalHacks
 Submission for Norcal Hackathon. A Breadth first search pathfinding visualization for a maze generated with Recursive division. 
 
