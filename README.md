@@ -1,6 +1,11 @@
 **Edit: This project won Best Solo Hack at NorCalHacks 2020 **
 https://event.hackhub.com/event/NorcalHacks/teams/submissions/5824cdf4-4815-4b2e-afa4-707d1f82135d
 
+# Live Demo
+https://shamsansari.github.io/Pathfinding-Visualization-NorcalHacks/ 
+--> Refresh for new maze
+
+
 # Pathfinding-Visualization-NorcalHacks
 Submission for Norcal Hackathon. A Breadth first search pathfinding visualization for a maze generated with Recursive division. 
 
@@ -20,7 +25,3 @@ This is A Maze solving visualization. How algorithms solve mazes or find paths b
   - main.js : Main js file, calls other files, d3.js selections
  
 
-# Live Demo
-https://shamsansari.github.io/Pathfinding-Visualization-NorcalHacks/ 
---> Refresh for new maze
-shamsahmedansari@gmail.com
