@@ -2,7 +2,7 @@
 https://event.hackhub.com/event/NorcalHacks/teams/submissions/5824cdf4-4815-4b2e-afa4-707d1f82135d
 
 # Live Demo
-!(https://shamsansari.github.io/Pathfinding-Visualization-NorcalHacks/) 
+https://shamsansari.github.io/Pathfinding-Visualization-NorcalHacks/
 --> Refresh for new maze
 
 
