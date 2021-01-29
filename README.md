@@ -25,3 +25,5 @@ This is A Maze solving visualization. How algorithms solve mazes or find paths b
   - main.js : Main js file, calls other files, d3.js selections
  
 
+# Example
+!(demo.gif)
