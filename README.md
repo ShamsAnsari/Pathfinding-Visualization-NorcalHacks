@@ -26,4 +26,4 @@ This is A Maze solving visualization. How algorithms solve mazes or find paths b
  
 
 # Example
-![gif example](demo.gif)
+![gif example](https://shamsansari.github.io/Pathfinding-Visualization-NorcalHacks/)
